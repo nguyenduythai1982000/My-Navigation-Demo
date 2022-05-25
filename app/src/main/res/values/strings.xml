@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Navigation Demo</string>
+    <string name="ndt">Nguyễn Duy Thái</string>
+    <string name="intern">Intern</string>
+    <string name="settings">Settings</string>
+    <string name="log_out">Log out</string>
+    <string name="profile">Profile</string>
+</resources>
